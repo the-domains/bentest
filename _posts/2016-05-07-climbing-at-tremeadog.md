@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: climbing at tremeadog
-datePublished: '2016-05-07T10:21:19.719Z'
-dateModified: '2016-05-07T10:21:03.402Z'
+datePublished: '2016-05-07T10:24:55.495Z'
+dateModified: '2016-05-07T10:23:19.242Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-climbing-at-tremeadog.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-climbing-at-tremeadog.md
 url: climbing-at-tremeadog/index.html
 _type: Article
 
